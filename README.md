@@ -1,5 +1,8 @@
 # Python-Hand-Detection-Finger-Counting
 
+A second-year electrical and computer engineering student, I took the time between semesters to improve myself and my skills in image processing.
+This project is my first experience in the field, a relatively basic and short project but incorporates some principles in image processing. Principles I learned in a course I took outside of university.
+
 Detect Hand and count number of fingers using Convex Hull algorithm in OpenCV lib in Python
 
 Steps Involved
